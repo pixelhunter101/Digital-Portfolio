@@ -12,7 +12,7 @@
 .u-section-1 .u-image-1 {
   width: 383px;
   height: 383px;
-  background-image: url("/images/IMG_20190825_041917_722.jpg");
+  background-image: url("images/IMG_20190825_041917_722.jpg");
   background-position: 50% 50%;
   margin: -316px auto 0;
 }
@@ -475,7 +475,7 @@
 }
 
 .u-section-4-4 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("/images/g01bd308c88ca9fcfc9e85aec5654f677b85f47c253d20759337b0c566d63d0d50b9bb952490fc6c6e4d6bbfca592a891986f1c1512ee43cde377b6fd5f93dd13_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/g01bd308c88ca9fcfc9e85aec5654f677b85f47c253d20759337b0c566d63d0d50b9bb952490fc6c6e4d6bbfca592a891986f1c1512ee43cde377b6fd5f93dd13_1280.jpg");
 }
 
 .u-section-4-4 .u-container-layout-1 {
@@ -535,7 +535,7 @@
 
 .u-section-7 .u-image-1 {
   min-height: 590px;
-  background-image: url("/images/3312792_medium2000.jpg");
+  background-image: url("images/3312792_medium2000.jpg");
   background-position: 50% 50%;
 }
 
